@@ -1,0 +1,12 @@
+com\domain\event\sendService\Addr.class
+com\domain\event\sendService\Deliver.class
+com\domain\event\annotation\Destination.class
+com\domain\event\receiveService\Receiver.class
+com\domain\event\receiveService\Dispatcher.class
+com\domain\event\sendService\Deliver$1.class
+com\domain\event\receiveService\handler\FuckHandler.class
+com\domain\event\annotation\Address.class
+com\domain\event\receiveService\listener\FuckComsumerListener.class
+com\domain\event\FuckEvent.class
+com\domain\event\receiveService\handler\EventHandler.class
+com\domain\event\IDomainEvent.class

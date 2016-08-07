@@ -1,0 +1,11 @@
+F:\event-demo\src\main\java\com\domain\event\receiveService\Dispatcher.java
+F:\event-demo\src\main\java\com\domain\event\sendService\Addr.java
+F:\event-demo\src\main\java\com\domain\event\receiveService\handler\FuckHandler.java
+F:\event-demo\src\main\java\com\domain\event\IDomainEvent.java
+F:\event-demo\src\main\java\com\domain\event\receiveService\handler\EventHandler.java
+F:\event-demo\src\main\java\com\domain\event\annotation\Destination.java
+F:\event-demo\src\main\java\com\domain\event\receiveService\Receiver.java
+F:\event-demo\src\main\java\com\domain\event\annotation\Address.java
+F:\event-demo\src\main\java\com\domain\event\receiveService\listener\FuckComsumerListener.java
+F:\event-demo\src\main\java\com\domain\event\sendService\Deliver.java
+F:\event-demo\src\main\java\com\domain\event\FuckEvent.java
